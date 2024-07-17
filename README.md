@@ -26,6 +26,3 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utpaldwivedi&show_icons=true&locale=en" alt="utpaldwivedi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utpaldwivedi&" alt="utpaldwivedi" /></p>
-<img src="https://raw.githubusercontent.com/utpaldwivedi/utpaldwivedi/output/snake.svg" alt="Snake animation" />
-
-###
