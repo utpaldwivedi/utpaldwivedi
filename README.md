@@ -23,7 +23,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>  
 </br>
 
-###<h3 align="left">Programming Languages:</h3>
+### <h3 align="left">Programming Languages:</h3>
 ---
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -32,7 +32,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
-###<h3 align="left">Frontend:</h3>
+### <h3 align="left">Frontend:</h3>
 ---
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -43,7 +43,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
-###<h3 align="left">Backend:</h3>
+### <h3 align="left">Backend:</h3>
 ---
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -53,7 +53,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
-###<h3 align="left">Database:</h3>
+### <h3 align="left">Database:</h3>
 ---
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
@@ -63,7 +63,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
-###<h3 align="left">DevOps:</h3>
+### <h3 align="left">DevOps:</h3>
 ---
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -72,7 +72,7 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
-###<h3 align="left">AI/ML:</h3>
+### <h3 align="left">AI/ML:</h3>
 ---
 <p align="left">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
