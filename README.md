@@ -1,4 +1,4 @@
-![Github Logo](logo.jpg "Github Profile Image")  
+![Github Logo](pic.jpg "Github Profile Image")  
 
 ## **Hey!!  I am Utpal Dwivedi** :smile:  
 ---  
