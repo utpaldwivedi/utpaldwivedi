@@ -81,8 +81,12 @@ I like Full-Stack Web Development, Machine Learning, love puzzle and problem sol
 </p>
 </br>
 
+### <h3 align="left">My Github Stats:</h3>
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utpaldwivedi&show_icons=true&locale=en&layout=compact" alt="utpaldwivedi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utpaldwivedi&show_icons=true&locale=en" alt="utpaldwivedi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utpaldwivedi&" alt="utpaldwivedi" /></p>
+</br>
